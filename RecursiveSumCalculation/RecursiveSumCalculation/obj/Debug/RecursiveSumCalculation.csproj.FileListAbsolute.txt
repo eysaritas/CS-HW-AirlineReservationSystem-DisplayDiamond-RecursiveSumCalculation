@@ -1,0 +1,7 @@
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\bin\Debug\RecursiveSumCalculation.exe.config
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\bin\Debug\RecursiveSumCalculation.exe
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\bin\Debug\RecursiveSumCalculation.pdb
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\obj\Debug\RecursiveSumCalculation.csproj.AssemblyReference.cache
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\obj\Debug\RecursiveSumCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\obj\Debug\RecursiveSumCalculation.exe
+C:\Users\Ensar's PC\Desktop\lab3\RecursiveSumCalculation\RecursiveSumCalculation\obj\Debug\RecursiveSumCalculation.pdb

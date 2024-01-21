@@ -1,0 +1,7 @@
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\bin\Debug\DisplayingDiamond.exe.config
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\bin\Debug\DisplayingDiamond.exe
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\bin\Debug\DisplayingDiamond.pdb
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\obj\Debug\DisplayingDiamond.csproj.AssemblyReference.cache
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\obj\Debug\DisplayingDiamond.csproj.CoreCompileInputs.cache
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\obj\Debug\DisplayingDiamond.exe
+C:\Users\Ensar's PC\Desktop\lab3\DisplayingDiamond\DisplayingDiamond\obj\Debug\DisplayingDiamond.pdb
